@@ -1,6 +1,6 @@
 #!/bin/bash
 ################################
-# Author: Pranav
+# Author: Pranavdazzler
 # Version: v1
 #
 #
